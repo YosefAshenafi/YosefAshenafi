@@ -69,7 +69,7 @@
 
 ---
 
-### 😆: Programming jokes of the day :
+### 😆: Programming joke of now :
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
