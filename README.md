@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/yosef-ashenafi-1a378684/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://yosefashenafi.et/">
+    <a href="https://yosefashenafi.github.io/">
       <img src="https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
     </a>
     <a href="https://www.facebook.com/yosef.ashenafi">
