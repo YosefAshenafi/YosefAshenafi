@@ -29,9 +29,7 @@
 
   - :telescope: I’m working as a Software Engineer, contributing to frontend and backend development for building web and mobile applications.
 
-  - :seedling: My extensive experience covers UI/UX design, web design, front-end development, complex database management, back-end development, cloud services, APIs development and integration and payment gateways integration.
-  
-  - :zap: In my free time, I solve problems on Project Euler (https://projecteuler.net/)
+  - :seedling: My extensive experience covers mobile application development, UI/UX design, web design, front-end development, complex database management, back-end development, cloud services, API development and integration, as well as payment gateway integration.
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-ashenafi-1a378684/)
 
