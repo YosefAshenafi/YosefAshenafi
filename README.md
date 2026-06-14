@@ -1,74 +1,107 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5tanVieDRrZzM2Z2FwaHk0cnh1aTc1OHV2MXBmczk3YThieDdsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
+<!-- Profile README for github.com/YosefAshenafi -->
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/yosef-ashenafi-1a378684/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://yosefashenafi.github.io/">
-      <img src="https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-    </a>
-    <a href="https://www.facebook.com/yosef.ashenafi">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=YosefAshenafi&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
-</div>
-  
-  ---
-  
-  ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+```console
+yosef@github:~$ whoami
+Yosef Ashenafi — Full-Stack Engineer   📍 Ethiopia 🇪🇹
 
-  - :telescope: I’m working as a Software Engineer, contributing to frontend and backend development for building web and mobile applications.
+yosef@github:~$ cat about.md
+# I build web & mobile products end to end:
+# UI/UX → frontend → backend → databases → cloud → APIs → payments.
+# Currently crafting jterm, a fast native terminal with a built-in workspace.
 
-  - :seedling: My extensive experience covers mobile application development, UI/UX design, web design, front-end development, complex database management, back-end development, cloud services, API development and integration, as well as payment gateway integration.
-  
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-ashenafi-1a378684/)
+yosef@github:~$ ls ~/stack
+react  typescript  rust  python  django  node  dotnet
+firebase  aws  tailwind  mysql  redux  postman
 
----
+yosef@github:~$ ./projects --featured
+jterm            fast native terminal + workspace    (Tauri · Rust · TS)
+metriyaye        event-management web app            (TypeScript)
+amharic-stream   streaming app                       (TypeScript)
+expenseTracker   expense tracker with reports        (TypeScript)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".Net" alt=".Net " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss"  alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" title="postman" **alt="postman" width="40" height="40"/>
+yosef@github:~$ echo $CONTACT
+linkedin · yosefashenafi.github.io · yosefashenafi7@gmail.com
+
+yosef@github:~$ _
+```
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yosef-ashenafi-1a378684/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://yosefashenafi.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=5AC8FA" alt="Website"/></a>
+<a href="mailto:yosefashenafi7@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.facebook.com/yosef.ashenafi"><img src="https://img.shields.io/badge/Facebook-0D1117?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook"/></a>
+<img src="https://komarev.com/ghpvc/?username=YosefAshenafi&style=flat-square&color=5AC8FA&label=profile+views" alt="profile views"/>
+
 </div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YosefAshenafi&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+### 🧰 &nbsp;Tech I reach for
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=flat-square&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Material UI](https://img.shields.io/badge/Material%20UI-0D1117?style=flat-square&logo=mui&logoColor=007FFF)
+
+**Backend &amp; Data**  
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**Cloud &amp; Tools**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+
+</div>
 
 ---
 
-### 😆: Programming joke of now :
+### 📊 &nbsp;GitHub at a glance
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5AC8FA&text_color=C9D1D9" alt="Top languages"/>
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YosefAshenafi&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E&excludeDaysLabel=8B949E" alt="GitHub streak"/>
+
+</div>
+
+---
+
+### 📌 &nbsp;Featured projects
+
+<div align="center">
+
+<a href="https://github.com/YosefAshenafi/jterm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=jterm&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="jterm"/></a>
+<a href="https://github.com/YosefAshenafi/metriyaye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=metriyaye&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="metriyaye"/></a>
+
+<a href="https://github.com/YosefAshenafi/expenseTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=expenseTracker&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="expenseTracker"/></a>
+<a href="https://github.com/YosefAshenafi/amharic-stream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=amharic-stream&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="amharic-stream"/></a>
+
+<sub><b>jterm</b> is live → <a href="https://yosefashenafi.github.io/jterm/">yosefashenafi.github.io/jterm</a></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><code>~$ exit</code> &nbsp;·&nbsp; thanks for stopping by — let's build something.</sub>
+</div>
