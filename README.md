@@ -1,15 +1,10 @@
 <!-- Profile README for github.com/YosefAshenafi -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5AC8FA&height=200&section=header&text=Yosef%20Ashenafi&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Ethiopia&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Yosef Ashenafi"/>
+
 <div align="center">
 
-<img src="https://github.com/YosefAshenafi.png?size=200" width="116" alt="Yosef Ashenafi" />
-
-# Yosef Ashenafi
-
-**Full-Stack Engineer** &nbsp;·&nbsp; Ethiopia 🇪🇹
-
-Building [**jterm**](https://yosefashenafi.github.io/jterm/) and shipping web & mobile products end to end —<br/>
-UI/UX, frontend, backend, databases, cloud, APIs & payments.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=900&color=5AC8FA&center=true&vCenter=true&width=620&height=45&lines=Building+jterm+%E2%80%94+a+fast+native+terminal;Web+%26+mobile%2C+end+to+end;React+%C2%B7+TypeScript+%C2%B7+Rust+%C2%B7+Python" alt="typing tagline"/>
 
 <br/>
 
@@ -60,6 +55,10 @@ UI/UX, frontend, backend, databases, cloud, APIs & payments.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5AC8FA&text_color=C9D1D9" alt="Top languages"/>
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YosefAshenafi&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=8B949E&excludeDaysLabel=8B949E" alt="GitHub streak"/>
+
 </div>
 
 ---
@@ -78,6 +77,4 @@ UI/UX, frontend, backend, databases, cloud, APIs & payments.
 
 </div>
 
-<br/>
-
-<div align="center"><sub>Thanks for stopping by — let's build something.</sub></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AC8FA,100:0D1117&height=120&section=footer&text=let%27s%20build%20something&fontSize=18&fontColor=FFFFFF&fontAlignY=72" width="100%" alt=""/>
