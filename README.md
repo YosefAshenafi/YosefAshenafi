@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=5AC8FA&text_color=C9D1D9" alt="Top languages"/>
 
 <br/>
@@ -68,10 +68,10 @@
 <div align="center">
 
 <a href="https://github.com/YosefAshenafi/jterm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=jterm&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="jterm"/></a>
-<a href="https://github.com/YosefAshenafi/metriyaye"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=metriyaye&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="metriyaye"/></a>
+<a href="https://github.com/YosefAshenafi/Amazon-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=Amazon-Clone&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="Amazon-Clone"/></a>
 
-<a href="https://github.com/YosefAshenafi/expenseTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=expenseTracker&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="expenseTracker"/></a>
-<a href="https://github.com/YosefAshenafi/amharic-stream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=amharic-stream&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="amharic-stream"/></a>
+<a href="https://github.com/YosefAshenafi/fitbless"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=fitbless&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="fitbless"/></a>
+<a href="https://github.com/YosefAshenafi/carrental-app-rn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YosefAshenafi&repo=carrental-app-rn&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" alt="carrental-app-rn"/></a>
 
 <sub><b>jterm</b> is live → <a href="https://yosefashenafi.github.io/jterm/">yosefashenafi.github.io/jterm</a></sub>
 
