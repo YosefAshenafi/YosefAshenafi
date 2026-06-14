@@ -9,10 +9,6 @@
 &nbsp;<a href="mailto:yosefashenafi7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;<a href="https://t.me/jossybuilds"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YosefAshenafi&style=flat-square&color=1D4E8E&label=profile+views" alt="profile views"/>
-
 </div>
 
 ---
