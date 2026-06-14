@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=donut-vertical&langs_count=12&card_width=500&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+<img width="780" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=donut&langs_count=12&card_width=490&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
 
 </div>
 
