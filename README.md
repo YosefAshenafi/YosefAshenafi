@@ -17,11 +17,11 @@
 
 ---
 
-<h3 align="center">📊 &nbsp;GitHub at a glance</h3>
+<h3 align="center"><img src="https://api.iconify.design/octicon/graph-16.svg?color=%2358A6FF&height=20" height="20" alt=""/> &nbsp;GitHub at a glance</h3>
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=YosefAshenafi&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Yosef's GitHub stats"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefAshenafi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
